@@ -1,6 +1,4 @@
-# uptimekuma-themes
-
-Luke's Collection of Custom UptimeKuma Themes
+# Luke's Collection of Custom UptimeKuma Themes
 
 ## Overview
 
@@ -13,3 +11,7 @@ This project was initially inspired by [@dermv/cute-kuma](https://github.com/der
 ## Themes
 
 A variety of theme options designed to enhance the visual appeal and usability of your UptimeKuma instance.
+
+### Aurora
+
+![aurora](https://github.com/wassupluke/uptimekuma-themes/blob/main/aroura.png)
