@@ -618,7 +618,6 @@ div[data-v-026459e0]:has(> .group-title) {
   all: unset;
   order: 2;
   margin-left: auto;
-  color: var(--color-text-primary) !important;
   font-weight: var(--font-weight-semibold);
   text-shadow: 0 0 10px rgba(var(--rgb-aurora-teal), 0.5);
 }
